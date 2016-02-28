@@ -1,0 +1,25 @@
+_repo: An-Essay-on-Criticism_7409
+creator:
+  author:
+    agent_name: Pope, Alexander
+    alias: Barnivelt, Esdras
+    birthdate: 1688
+    deathdate: 1744
+    gutenberg_agent_id: '907'
+    url: http://www.gutenberg.org/2009/agents/907
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Pope
+description: ''
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7409'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry -- Early works to 1800'
+- !lcsh 'Criticism'
+- !lcc 'PR'
+title: An Essay on Criticism
+url: http://www.gutenberg.org/ebooks/7409
